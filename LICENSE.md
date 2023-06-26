@@ -1,4 +1,4 @@
-The MIT License (MIT)
+The MIT License (MIT)1
 
 Copyright (c) Macsi Digital Ltd <info@macsi.co.uk>
 
